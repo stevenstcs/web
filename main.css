@@ -6,15 +6,25 @@
 */
 
 h1 {
-    color: red
+    color: Pink
 }
 
 /* this will style all h2 elements with color blue */
 h2 {
-    color: blue
+    color: #00FFFF 
+}
+
+p {
+    color: White
+}
+p { font: bold 14px/14px sans-serif }
+
+ul {
+    color: White
 }
 
 /* this will make the page background black */
 body {
-    background-color: black; /* bc dark mode 4 teh youngs */
-}
+    background-color: #292929
+
+
