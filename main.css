@@ -23,6 +23,9 @@ ul {
     color: White
 }
 
+a {
+  color: pink
+}
 /* this will make the page background black */
 body {
     background-color: #292929
